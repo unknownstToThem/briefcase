@@ -5,9 +5,8 @@ By using this script like you would similar to a command system, it allows the f
 
 ## Prerequisites
 
-Unfortunately, since this program was only built for Python scripts, it is only able to take .py files as argument as a result of this. Future support can be added if requested.
-Python (Vanilla)
-1 Python script containing comments (mutli-file support coming shortly)
+- Python (Vanilla)
+- 1 Python script containing comments (mutli-file support coming shortly)
 
 
 ## How to use
