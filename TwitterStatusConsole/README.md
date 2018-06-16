@@ -5,11 +5,9 @@ The Twitter Status Console allows a user to send and manipulate statuses on thei
 
 ## Prerequisites:
 
-Python 3.6
-
-Git (Latest)
-
-The Tweepy module 
+- Python 3.6
+- Git (Latest)
+- The Tweepy module 
 
 
 ## Installing Tweepy
